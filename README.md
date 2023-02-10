@@ -1,3 +1,2 @@
-# stepik_auto_tests_course
-Test auto tests
-new line
+stepik_auto_tests_course
+https://stepik.org/course/575/syllabus
